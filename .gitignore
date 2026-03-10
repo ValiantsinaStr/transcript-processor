@@ -26,3 +26,11 @@ pnpm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+
+# Project artifacts
+_bmad-output/
+
+# Lockfiles
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
